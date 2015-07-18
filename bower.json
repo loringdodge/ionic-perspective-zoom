@@ -1,0 +1,8 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "collide": "1.0.0-beta.3",
+    "ionic": "driftyco/ionic-bower#master"
+  }
+}
